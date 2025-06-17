@@ -6,23 +6,21 @@ Welcome to the repository for my personal portfolio website. This project is a c
 
 ## 📸 Screenshots
 
-Here's a glimpse of the portfolio layout:
+## 📸 Screenshots
 
-![Portfolio - Top Section](![image](![image](https://github.com/user-attachments/assets/eaf6de62-7798-4f21-bc92-fbe6b21ded3e)
-)
-)
+Take a look at the portfolio in action:
+
+![Portfolio - Top Section](https://github.com/user-attachments/assets/eaf6de62-7798-4f21-bc92-fbe6b21ded3e)
 *<p align="center">About Me Section</p>*
 
 ---
 
-![Portfolio - Middle Section](![image](https://github.com/user-attachments/assets/39f2f097-83e7-4acb-8b62-31997edd8b0d)
-)
+![Portfolio - Middle Section](https://github.com/user-attachments/assets/39f2f097-83e7-4acb-8b62-31997edd8b0d)
 *<p align="center">Experience and Skills Section</p>*
 
 ---
 
-![Portfolio - Bottom Section](![image](https://github.com/user-attachments/assets/458c9665-3e52-4f63-82da-145dabe4e60d)
-)
+![Portfolio - Bottom Section](https://github.com/user-attachments/assets/458c9665-3e52-4f63-82da-145dabe4e60d)
 *<p align="center">Projects and Contact Section</p>*
 
 ---
