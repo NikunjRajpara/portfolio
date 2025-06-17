@@ -6,7 +6,6 @@ Welcome to the repository for my personal portfolio website. This project is a c
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
 
 Take a look at the portfolio in action:
 
