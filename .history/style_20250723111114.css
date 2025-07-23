@@ -389,21 +389,23 @@ footer {
     }
 }
 
-.cert-links {
-    display: flex;
-    flex-direction: column;
-    gap: 0.75rem;
+.certifications-list {
+    list-style: none;
+    padding-left: 0;
 }
 
-.cert-links a {
-    text-decoration: none;
-    color: var(--text-muted);
-    font-size: 1.1rem;
-    transition: color 0.3s ease;
+.certifications-list li {
+    padding-left: 1.5rem;
+    position: relative;
+    margin-bottom: 0.5rem;
 }
 
-.cert-links a:hover {
+.certifications-list li::before {
+    content: '•';
     color: var(--primary-neon);
+    font-weight: bold;
+    display: inline-block;
+    position: absolute;
+    left: 0;
 }
-
 

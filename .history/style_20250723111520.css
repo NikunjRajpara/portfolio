@@ -389,21 +389,31 @@ footer {
     }
 }
 
-.cert-links {
+.certifications-container {
     display: flex;
     flex-direction: column;
     gap: 0.75rem;
+    align-items: flex-start; /* Align badges to left without stretching */
 }
 
-.cert-links a {
+
+
+.cert-badge {
+    display: inline-block;
+    width: auto;
+    background-color: var(--primary-neon);
+    color: #000;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-weight: 600;
     text-decoration: none;
-    color: var(--text-muted);
-    font-size: 1.1rem;
-    transition: color 0.3s ease;
+    transition: background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
+    border: 1px solid var(--primary-neon);
 }
 
-.cert-links a:hover {
+.cert-badge:hover {
+    background-color: transparent;
     color: var(--primary-neon);
+    box-shadow: 0 0 10px rgba(0, 209, 178, 0.6);
 }
-
 

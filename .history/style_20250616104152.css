@@ -388,22 +388,3 @@ footer {
        gap: 0.25rem;
     }
 }
-
-.cert-links {
-    display: flex;
-    flex-direction: column;
-    gap: 0.75rem;
-}
-
-.cert-links a {
-    text-decoration: none;
-    color: var(--text-muted);
-    font-size: 1.1rem;
-    transition: color 0.3s ease;
-}
-
-.cert-links a:hover {
-    color: var(--primary-neon);
-}
-
-
